@@ -72,3 +72,88 @@ a {
 .hero-img {
     width: 400px;
 }
+
+.two {
+    padding: 50px 200px 100px 200px;
+}
+
+.square {
+    border-radius: 8%;
+    border: #3882f6 solid 3px;
+    width: 150px;
+    height: 150px;   
+    margin-bottom: 12px;
+    align-items: center;
+    display: inline-block;
+}
+
+.info-title {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1F2937;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.info-content {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center ;
+    gap: 20px;
+}
+
+.container {
+    width: 180px;
+    
+}
+
+.three {
+    background-color: #E5E7EB;
+    padding: 50px 260px 100px 260px;
+}
+
+.quote {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.name {
+    font-weight: 800;
+    text-align: end;
+    margin-top: 20px;
+}
+
+.four {
+    margin: 100px 150px 100px 150px;
+    background-color: #3882f6;
+    border-radius: 8px;
+    padding: 50px 100px 50px 100px;
+    color: #F9FAF8;
+}
+
+.call-header {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.call-text {
+    font-size: 14px;
+    color: #E5E7EB;
+    font-weight: 100;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.call-text button {
+    border: #F9FAF8 1px solid;
+    border-radius: 5px;
+    padding: 4px 8px 4px 8px;
+    background-color: #3882f6;
+    color: #F9FAF8;
+    font-size: 14PX;
+    font-weight: 700;
+}
